@@ -1,0 +1,17 @@
+.dialog__backdrop {
+  position: fixed;
+  inset: 0;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  display: grid;
+  place-items: center;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.dialog {
+  background-color: white;
+  color: black;
+  padding: 1rem;
+  border-radius: 8px;
+}

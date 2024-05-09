@@ -1,0 +1,22 @@
+
+.alert {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  border-radius: 8px;
+  border: 1px solid grey;
+  padding: 1rem;
+}
+
+.alert p {
+  display: flex;
+  align-items: center;
+}
+
+.success {
+  background-color: rgba(162, 190, 149, 0.8);
+} 
+
+.danger {
+  background-color: rgba(224, 23, 23, 0.8);
+}

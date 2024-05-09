@@ -1,0 +1,11 @@
+.search-container {
+  display: flex;
+  align-items: center;
+}
+
+.search-container input {
+  margin-left: 10px;
+  background-color: var(--color-primary);
+  border: none;
+  color: white;
+}

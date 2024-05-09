@@ -1,0 +1,12 @@
+:root {
+  --color-primary: #10141f;
+}
+
+body {
+  background-color: var(--color-primary);
+  color: white;
+}
+
+.red {
+  color: red;
+}

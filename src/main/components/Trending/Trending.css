@@ -1,0 +1,12 @@
+.trending {
+  display: flex;
+  overflow: auto;
+  gap: 50px;
+
+  list-style-type: none;
+  padding: 0;
+}
+
+.trending-container {
+  display: flex;
+}
